@@ -9,6 +9,9 @@ Getting Started
 If you're new to Flutter, here are some resources to help you get started:
 
 Flutter Documentation: Comprehensive guide to Flutter's features and functionalities.
+
 Cookbook: Practical examples for common Flutter tasks.
+
 Flutter Samples: A collection of projects showcasing Flutter's capabilities.
+
 This project is an ideal starting point for developing scalable and high-performance applications.
